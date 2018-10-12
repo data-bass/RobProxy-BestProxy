@@ -1,0 +1,24 @@
+TODO
+
+## git rm -r --cached jestOutput ##
+jestOutput/
+
+## MAC files ##
+.DS_Store
+
+## NPM ##
+npm
+npm-debug.log
+node_modules/
+
+pids
+*.pid
+logs
+*.log
+
+# Compiled Dirs (http://nodejs.org/api/addons.html)
+build/
+
+
+
+
